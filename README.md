@@ -1,5 +1,24 @@
 # Isaac Hernandez
 
+> Art director and creative technologist in Los Angeles.
+> I direct AI video and build the agent tooling behind it.
+
+## Film and motion
+
+### [Many Worlds](https://isaacsight.com/many-worlds.html)
+
+One man walks through a door on a Los Angeles sidewalk and keeps walking, through eighteen worlds. A 78-second reel built around the hardest problem in AI video: keeping one character the same from shot to shot.
+
+[![The same man, mid-stride, in eighteen worlds](https://raw.githubusercontent.com/isaacsight/many-worlds/main/images/eighteen-worlds.jpg)](https://isaacsight.com/many-worlds.html)
+
+**Watch:** [isaacsight.com/many-worlds.html](https://isaacsight.com/many-worlds.html) · **Bibles, prompts and edit code:** [isaacsight/many-worlds](https://github.com/isaacsight/many-worlds)
+
+**More work:** [reels](https://isaacsight.com/reels.html) · [one-page overview](https://isaacsight.com/work.html) · [how I direct AI: the studio rules](https://isaacsight.com/rules.html)
+
+---
+
+## Engineering
+
 > Provenance engineer. Editor at [kernel.chat](https://kernel.chat).
 > Building open-source audit-grade infrastructure for AI agents in regulated industries.
 
